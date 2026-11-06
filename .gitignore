@@ -1,0 +1,9 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Temporary files & logs
+*.log
+*.tmp
+.env
+.env.local
